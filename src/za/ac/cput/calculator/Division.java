@@ -1,5 +1,8 @@
 package za.ac.cput.calculator;
 
+/**
+ * author Robin White
+ */
 public class Division {
 
     /**
